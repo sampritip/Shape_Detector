@@ -1,5 +1,5 @@
 # Shape_Detector
-Open a python IDE (Visual Studio Code preferably).
+Open a python IDE (Visual Studio Code preferably).\
 Set up Anaconda in your system.
 Set up a python 3.9 virtual environment : conda create -n yourenvname python=3.9 anaconda
 Activate the virtual environment : conda activate yourenvname
