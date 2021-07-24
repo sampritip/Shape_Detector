@@ -5,7 +5,7 @@ Set up a python 3.9 virtual environment : conda create -n yourenvname python=3.9
 Activate the virtual environment : conda activate yourenvname\
 Clone this repository inside the virtual environment.\
 The requirement.txt file contains the required dependencies and packages.\
-"pip install -r requirements.txt" to get all the requirements.\
+"pip install -r requirements.txt" to get all the requirements.
 
 If you have the hardware components available :\
 Correctly specify the port number that the arduino is connected to.\
@@ -14,9 +14,9 @@ Set-up a camera. If you are using a built-in camera with your computer, change l
 'cap = cv2.VideoCapture(1)'\
 to\
 'cap = cv2.VideoCapture(0)'\
-Finally run the 'contours_detection_servo_motor_control.py' script.\
+Finally run the 'contours_detection_servo_motor_control.py' script.
 
 If you don't have the required hardware components, you can still run the script and check the output.\
-Run the 'contours_detection_original.py' script.\
+Run the 'contours_detection_original.py' script.
 
 
